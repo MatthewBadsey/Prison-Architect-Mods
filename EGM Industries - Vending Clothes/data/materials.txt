@@ -1,0 +1,27 @@
+BEGIN Object     
+    Name                 Clothing Machine  
+    ConstructionTime     10.00000  
+    MoveSpeedFactor      0.200000  
+    Toughness            150.0000  
+    Price                -1000
+    RenderDepth          1
+    NumSlots             1  
+    AttachToWall         false  
+    Height               1
+    Width                1
+    Group                StaticObject  
+    Properties           SlowDelivery
+    BlockVis             True
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    BEGIN   Sprite
+        x 0 
+        y 0  
+        w 2  
+        h 2  
+        RotateType 1
+    END
+    MadeOf               HollowMetal
+    Properties           Electrical    
+END

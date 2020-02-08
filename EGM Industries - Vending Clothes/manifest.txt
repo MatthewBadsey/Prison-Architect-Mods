@@ -1,0 +1,6 @@
+Name                "EGM Ind Clothing"
+Author              "Badsey"
+Description         "EGM Industries newest product allows you to charge your prisoners for new clothing if they want it quicker."
+Version             "v1.0"
+Date                "06/02/2020"
+URL                 "https://steamcommunity.com/id/Badsey/"

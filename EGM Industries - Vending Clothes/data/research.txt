@@ -1,0 +1,22 @@
+BEGIN Research
+	Name		Clothing Machine
+	Type 	        Ability
+ 	Requires 	ClothingMachine
+ 	Admin	        MentalHealth
+	Cost		-2000
+	Time		360
+	X		960
+	Y		620
+END
+	
+BEGIN Research   
+    Name                 ClothingMachine  
+    Type                 Entity  
+    Requires             Warden  
+    Admin                Warden  
+    Sprite               Psychologist  
+    Cost                 -450  
+    Time                 360  
+    X                    840  
+    Y                    620  
+END

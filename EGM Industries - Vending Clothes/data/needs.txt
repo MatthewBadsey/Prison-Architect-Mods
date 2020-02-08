@@ -1,0 +1,8 @@
+BEGIN Provider
+	Action	        ChangeClothes
+	ProviderType	Object
+	Object	        ClothingMachine
+	PrimaryNeed	Clothing
+	PrimaryRate	-100.000
+	ActionType	Consume
+END
